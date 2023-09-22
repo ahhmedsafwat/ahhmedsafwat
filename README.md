@@ -14,6 +14,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;<br><br>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+
+<a href="https://github.com/ahhmedsafwat">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ahhmedsafwat&include_all_commits=true&show_icons=true&count_private=false&theme=algolia" alt="Ahmed Github Status logo" />
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahhmedsafwat&layout=compact&langs_count=8&theme=algolia" />
+</a>
+</p><br>
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
