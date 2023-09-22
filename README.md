@@ -12,15 +12,3 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;<br><br>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/ahhmedsafwat"> <img src="https://img.shields.io/github/followers/ahhmedsafwat?style=social" alt="Github Logo"></a>
-<a href="mailto:ahmedssafwatt@gmail.com"><img src="https://img.shields.io/badge/-haithamassoli44@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ahmed-safwat-54bb27220/"><img src="https://img.shields.io/badge/-Haitham%20Assoli-0077B5?style=flat&logo=Linkedin&logoColor=white" />
-</a>
-
-</p>
-</a>
